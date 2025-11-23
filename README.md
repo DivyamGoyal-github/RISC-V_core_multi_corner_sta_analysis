@@ -110,21 +110,35 @@ exit
 
 ## 4. Week-3 Timing Results (Post-Synthesis)
 
+### STA Analysis
+
+<div align="center" >
+  <img src="./assets/week_3/week3_sta_data.png" alt="week3_sta_data" width="80%">
+</div>
+
 ### Worst Hold Slack
 
-![](/mnt/data/WHS.jpg)
+<div align="center" >
+  <img src="./assets/week_3/WHS.jpg" alt="Worst_Hold_Stack" width="80%">
+</div>
 
 ### Worst Setup Slack
 
-![](/mnt/data/WSS.jpg)
+<div align="center" >
+  <img src="./assets/week_3/WSS.jpg" alt="Worst_Setup_Stack" width="80%">
+</div>
 
 ### WNS
 
-![](/mnt/data/WNS.jpg)
+<div align="center" >
+  <img src="./assets/week_3/WNS.jpg" alt="WNS" width="80%">
+</div>
 
 ### TNS
 
-![](/mnt/data/TNS.jpg)
+<div align="center" >
+  <img src="./assets/week_3/TNS.jpg" alt="TNS" width="80%">
+</div>
 
 ---
 
