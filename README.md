@@ -110,7 +110,7 @@ exit
 
 ## 4. Week-3 Timing Results (Post-Synthesis)
 
-### STA Analysis
+### Week 3 Summary Table
 
 <div align="center" >
   <img src="./assets/week_3/week3_sta_data.png" alt="week3_sta_data" width="80%">
@@ -146,27 +146,35 @@ exit
 
 ### Week-8 Summary Table
 
-![](/mnt/data/excel_data.png)
+<div align="center" >
+  <img src="./assets/week_8/riscv_core_sta_across_pvt.png" alt="riscv_core_sta_across_pvt" width="80%">
+</div>
+
 
 ### Worst Setup Slack
 
-![](/mnt/data/D19_worst_setup_slack.png)
+<div align="center" >
+  <img src="./assets/week_8/worst_setup_slack.png" alt="worst_setup_slack" width="80%">
+</div>
 
 ### Worst Hold Slack
 
-![](/mnt/data/D19_worst_hold_slack.png)
+<div align="center" >
+  <img src="./assets/week_8/worst_hold_slack.png" alt="worst_hold_slack" width="80%">
+</div>
 
 ### WNS
 
-![](/mnt/data/D19_wns.png)
+<div align="center" >
+  <img src="./assets/week_8/wns.png" alt="wns" width="80%">
+</div>
+
 
 ### TNS
 
-![](/mnt/data/D19_tns.png)
-
-### STA Trends Across PVT
-
-![](/mnt/data/D19_riscv_core_sta_across_pvt.png)
+<div align="center" >
+  <img src="./assets/week_8/tns.png" alt="tns" width="80%">
+</div>
 
 ---
 
